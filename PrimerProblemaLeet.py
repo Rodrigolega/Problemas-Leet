@@ -11,7 +11,7 @@ class Solution:
                     return [i, j]
         return None
 
-# Crear una instancia de la clase
+# Crear una inst ancia de la clase
 sol = Solution()
 
 # Datos de entrada
